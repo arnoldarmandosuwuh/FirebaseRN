@@ -1,0 +1,38 @@
+{
+  "foods" : [ null, {
+    "category" : "New Taste",
+    "id" : 1,
+    "image" : "https://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-setan.jpg",
+    "name" : "Nasi Goreng Ayam",
+    "price" : 13000,
+    "rate" : 3.5
+  }, {
+    "category" : "Popular",
+    "id" : 2,
+    "image" : "https://cdn.idntimes.com/content-images/community/2017/10/3-nasi-pecel-yu-sri-4a66482d53bb8e2d7c50e4672070637f.JPG",
+    "name" : "Nasi Pecel",
+    "price" : 8000,
+    "rate" : 4.3
+  }, {
+    "category" : "New Taste",
+    "id" : 3,
+    "image" : "https://img-z.okeinfo.net/okz/500/library/images/2020/05/06/jt9xzws6rwlagevwcy1m_19469.jpg",
+    "name" : "Sate Ayam",
+    "price" : 10000,
+    "rate" : 4.6
+  }, {
+    "category" : "Popular",
+    "id" : 4,
+    "image" : "https://www.masakapahariini.com/wp-content/uploads/2019/11/shutterstock_1469046305-780x440.jpg",
+    "name" : "Soto Ayam",
+    "price" : 15000,
+    "rate" : 3.7
+  }, {
+    "category" : "Popular",
+    "id" : 5,
+    "image" : "https://cdn.akurat.co/images/uploads/images/akurat_20200904103357_88936m.jpg",
+    "name" : "Rujak Cingur",
+    "price" : 15000,
+    "rate" : 4.3
+  } ]
+}
